@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@truffle/contract": "^4.6.6",
+    "bootstrap": "^5.2.2",
+    "lite-server": "^2.6.1"
+  },
+  "name": "frontend",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

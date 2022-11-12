@@ -1,0 +1,15 @@
+{
+    "server": 
+    {
+        "baseDir": 
+        [
+            "./",
+            "./artifacts"
+        ],
+        "routes":
+        {
+            "/libs" : "./node_modules"
+        }
+    },
+    "port": "3000"
+}
